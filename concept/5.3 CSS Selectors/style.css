@@ -1,0 +1,14 @@
+ol{
+  .abc{
+    color: red;
+  }
+  #abcd{
+    color: green;
+  }
+  #sas{
+    color: blue;
+  }
+}
+*{
+  text-align: center;
+}
